@@ -1,2 +1,2 @@
-# Video-Editing-Projects
-Video Editing projects which I made as an intern / part-time job
+# Graphics-Design-Projects
+Graphics Design projects which I made as an intern / part-time job
